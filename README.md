@@ -19,4 +19,4 @@ tell me why.
 
 no,I wont tell you anything.
 
-Creating a branch is very easy.
+Creating a branch is very easy & fast.
